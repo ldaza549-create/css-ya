@@ -1,0 +1,14 @@
+body{
+    background-color: darkcyan;
+}
+h1{ text-align: center;
+color: bisque;
+font-family: 'Times New Roman', Times, serif;
+font-size: 25px;
+text-decoration: underline;}
+
+P{
+    text-align: justify;
+    color: brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

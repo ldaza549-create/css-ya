@@ -1,0 +1,9 @@
+body{
+    background-color: burlywood;
+}
+.resaltado{
+    color:red;
+    font-weight: bold;
+    background-color: #ffff00;
+    font-family: italic;
+}

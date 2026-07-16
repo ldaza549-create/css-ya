@@ -1,0 +1,14 @@
+.pregunta{
+    border-color: black;
+    border-width: 1px;
+    background-color: blueviolet;
+    color: brown;
+    border-style: solid;
+}
+
+.respuesta{
+    border-color: rgb(0, 0, 0);
+    border-width: 1px;
+    color: rgb(0, 217, 255);
+    border-style: dashed;
+}
