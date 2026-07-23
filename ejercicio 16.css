@@ -1,0 +1,9 @@
+.codigofuente {
+  font-size: 50px;
+  background-color: #ffffcc;
+  border-width: 1px;
+  border-style: dotted;
+  border-color: #ffaa00;
+
+  padding: 100px;
+}
